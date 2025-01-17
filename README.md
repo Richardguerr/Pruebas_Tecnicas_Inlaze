@@ -31,14 +31,17 @@ Este proyecto contiene pruebas automatizadas desarrolladas en Python utilizando 
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <url-del-repositorio>
-   cd pruebas-tecnicas-induze
+   git clone https://github.com/Richardguerr/Pruebas_Tecnicas_Inlaze.git
+   cd Pruebas_Tecnicas_Inlaze
    ```
 
 2. **Crear y activar un entorno virtual**:
    ```bash
    python -m venv env
-   source env/bin/activate   # En Windows: env\Scripts\activate
+   # En Linux: 
+   source env/bin/activate   
+   # En Windows: 
+   env\Scripts\activate
    ```
 
 3. **Instalar las dependencias**:
